@@ -80,7 +80,7 @@ app/
 
 ### テスト環境
 - **実機テスト済み端末**
-  - TORQUE G06（Android 13、カスタムハードキー搭載）
+  - TORQUE G06（Android 15、カスタムハードキー搭載）
   - Anbernic RG350M
 
 ### テスト項目
