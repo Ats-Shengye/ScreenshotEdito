@@ -76,16 +76,6 @@ app/
 - FLAG_SECURE画面の適切な処理
 - リソースリークを防ぐ確実な解放処理
 
-## ビルド方法
-
-```bash
-# デバッグビルド
-./gradlew assembleDebug
-
-# リリースビルド（要署名設定）
-./gradlew assembleRelease
-```
-
 ## テスト
 
 ### テスト環境
